@@ -1,6 +1,6 @@
 # RAGLens
 
-> A small, self-contained pipeline that builds a RAG system over Wikipedia articles and then scores it — objectively, with [RAGAS](https://docs.ragas.io/) — instead of eyeballing whether the answers "look right."
+> A small, self-contained pipeline that builds a RAG system over Wikipedia articles and then scores it — objectively, with [RAGAS] — instead of eyeballing whether the answers "look right."
 
 ---
 
